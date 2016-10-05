@@ -20,3 +20,5 @@ Recommened Tools:
 #Others
 Bootstraps v4
 https://github.com/phototix/webbycms/tree/Bootstrap4/
+
+* when you create a page you should be keep insite the pages folder and then page need a one folder and insite the folder create a index.php. The folder name is the page ulr link folder name can be space. view the page. /?page=aboutus

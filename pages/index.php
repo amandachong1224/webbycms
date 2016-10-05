@@ -14,7 +14,7 @@ if($page<>""&&$page<>'index'){
 		include('pages/error/404.php');
 	}
 }else{
-	$pageFileSystem='pages/home/index.php';
+	//$pageFileSystem='pages/home/index.php';
 	if(file_exists($pageFileSystem)){
 		include($pageFileSystem);
 	}else{
